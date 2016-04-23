@@ -1,2 +1,3 @@
-# first
-lets try
+<?php
+echo 'hello world';
+?>
